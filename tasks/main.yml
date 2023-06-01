@@ -1,5 +1,5 @@
 ---
 - name: Install packages with chocolatey
   win_chocolatey:
-    name: 'dt-client-extension'
+    name: 'dt-clientextension'
     state: present
